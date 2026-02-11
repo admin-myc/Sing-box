@@ -15,7 +15,7 @@ sing-box是一个强大的代理脚本，多种环境下使用。它支持多种
 
 ---
 
-Telegram交流反馈群组：https://t.me/eooceu
+邮件联系：contact@ccdele.com
 
 </div>
 
